@@ -1,4 +1,4 @@
-Anyone can now run KataGo on OGS online-go.com with Google Colab for Free. Please use below colab files. 
+Anyone can now run KataGo on OGS online-go.com  with Google Colab for Free. Please use below colab files. 
 
 https://colab.research.google.com/gist/JBX2010/2f9e4284ebbdd546987a76fbdb07540c/katago_cuda_v1-0.ipynb?authuser=2
 
@@ -8,7 +8,7 @@ Even though there are both CUDA and OPENCL version colabs files, you may need to
 
 !cd /content/KataGo/cpp/ && cmake . -DBUILD_MCTS=1 -DUSE_BACKEND=OPENCL && make 
 
-The gtp_example.cfg file on this repo can be downloaded to local pc and uploaded manually to colab folder KataGo/cpp using the folder icon on the left panel. See screenshot attached.
+The gtp_example.cfg file on this repo can be downloaded to your local pc and uploaded manually to colab folder KataGo/cpp using the folder icon on the left panel. See screenshot attached.
 
 To run a bot on online-go.com, you need to first register an account on OGS and get an API Key for the bot account. Details please refer to gtp2ogs documentation below:
 https://github.com/online-go/gtp2ogs
@@ -18,3 +18,6 @@ Please update your Bot Name <ogsBotName>  and Bot API Key <ogsBotApikey> in this
 
 For more information about KataGo and latest updates, please check here:
 https://github.com/lightvector/KataGo
+
+Can also run bot on yikeweiqi.com. Please download config.json file to your local pc and update with your yikeweiqi.com account name and password and upload to Colab folder /KataGo/cpp/yk-linker/
+https://home.yikeweiqi.com/ 
