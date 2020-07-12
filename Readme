@@ -13,5 +13,8 @@ The gtp_example.cfg file on this repo can be downloaded to local pc and uploaded
 To run a bot on online-go.com, you need to first register an account on OGS and get an API Key for the bot account. Details please refer to gtp2ogs documentation below:
 https://github.com/online-go/gtp2ogs
 
+Please update your Bot Name <ogsBotName>  and Bot API Key <ogsBotApikey> in this line of code:
+!nodejs /usr/lib/node_modules/gtp2ogs/gtp2ogs.js --username <ogsBotName> --apikey <ogsBotApikey> 
+
 For more information about KataGo and latest updates, please check here:
 https://github.com/lightvector/KataGo
