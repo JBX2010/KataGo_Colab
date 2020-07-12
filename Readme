@@ -8,4 +8,6 @@ Even though there are both CUDA and OPENCL version colabs files, you may need to
 
 !cd /content/KataGo/cpp/ && cmake . -DBUILD_MCTS=1 -DUSE_BACKEND=OPENCL && make 
 
-The gtp_example.cfg file can be uploaded manually from local PC to colab folder KataGo/cpp using the folder icon on the left panel.
+The gtp_example.cfg file on this repo can be downloaded to local pc and uploaded manually to colab folder KataGo/cpp using the folder icon on the left panel. See screenshot attached.
+
+
