@@ -4,9 +4,9 @@ https://colab.research.google.com/gist/JBX2010/93c99743efe0899751421bedcd342cea/
 
 You may need to manually switch CUDA/OPENCL in below line of code depending on what GPU you get with colab. 
 
-For T4 recommend to use CUDA. For P100, P4 and K80 recommend to use OPENCL. First run !nvidia-smi see what GPU you get and then change CUDA/OPENCL accordingly.
-
 !cd /content/KataGo/cpp/ && cmake . -DBUILD_MCTS=1 -DUSE_BACKEND=OPENCL && make 
+
+For T4 recommend to use CUDA. For P100, P4 and K80 recommend to use OPENCL. First run !nvidia-smi see what GPU you get and then change CUDA/OPENCL accordingly.
 
 The gtp_example.cfg file on this repo can be downloaded to your local pc and uploaded manually to colab folder KataGo/cpp using the folder icon on the left panel. See screenshot attached.
 
@@ -21,3 +21,29 @@ https://github.com/lightvector/KataGo
 
 Can also run bot on yikeweiqi.com. Please download config.json file to your local pc and update with your yikeweiqi.com account name and password and upload to Colab folder /KataGo/cpp/yk-linker/
 https://home.yikeweiqi.com/ 
+
+中文版说明：
+
+现在，任何人都可以免费使用Google Colab在OGS online-go.com上运行KataGo。请访问下面的笔记本文件并另存为自己的副本。
+
+https://colab.research.google.com/gist/JBX2010/93c99743efe0899751421bedcd342cea/katago_opencl_v1-0.ipynb
+
+您可能需要在下面的代码行中手动切换CUDA / OPENCL，具体取决于您通过colab获得的GPU。
+
+！cd / content / KataGo / cpp / && cmake。 -DBUILD_MCTS = 1 -DUSE_BACKEND = OPENCL && make
+
+对于T4，建议使用CUDA。对于P100，P4和K80，建议使用OPENCL。首先运行！nvidia-smi，查看您所获得的GPU，然后相应地更改CUDA / OPENCL。
+
+可以将此存储库上的gtp_example.cfg文件下载到本地PC，然后使用左侧面板上的文件夹图标将其手动上载到colab文件夹KataGo / cpp。请参阅所附的屏幕截图。
+
+要在online-go.com上运行AI，您需要先在OGS上注册一个AI帐户并获取该AI帐户的API密钥。详细信息请参考下面的gtp2ogs文档：
+https://github.com/online-go/gtp2ogs
+
+请在以下代码行中更新您的AI帐户名称<ogsBotName>和AI帐户API密钥<ogsBotApikey>：
+！nodejs /usr/lib/node_modules/gtp2ogs/gtp2ogs.js --username <ogsBotName> --apikey <ogsBotApikey>
+
+有关KataGo和最新更新的更多信息，请访问下面链接：
+https://github.com/lightvector/KataGo
+
+也可以在奕客围棋上运行。请将config.json文件下载到本地计算机，更改里面的奕客围棋帐户名和密码，然后上传到Colab文件夹/ KataGo / cpp / yk-linker /
+https://home.yikeweiqi.com/
