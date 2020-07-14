@@ -1,10 +1,10 @@
-Anyone can now run KataGo on OGS online-go.com  with Google Colab for Free. Please use below colab files. 
-
-https://colab.research.google.com/gist/JBX2010/2f9e4284ebbdd546987a76fbdb07540c/katago_cuda_v1-0.ipynb?authuser=2
+Anyone can now run KataGo on OGS online-go.com  with Google Colab for Free. Please access below notebook file and save as your own copy. 
 
 https://colab.research.google.com/gist/JBX2010/93c99743efe0899751421bedcd342cea/katago_opencl_v1-0.ipynb
 
-Even though there are both CUDA and OPENCL version colabs files, you may need to manually switch CUDA/OPENCL in this line of code depending on what GPU you get with colab. For T4 recommend to use CUDA. For P100, P4 and K80 recommend to use OPENCL. First run !nvidia-smi see what GPU you get and then change CUDA/OPENCL accordingly.
+You may need to manually switch CUDA/OPENCL in below line of code depending on what GPU you get with colab. 
+
+For T4 recommend to use CUDA. For P100, P4 and K80 recommend to use OPENCL. First run !nvidia-smi see what GPU you get and then change CUDA/OPENCL accordingly.
 
 !cd /content/KataGo/cpp/ && cmake . -DBUILD_MCTS=1 -DUSE_BACKEND=OPENCL && make 
 
