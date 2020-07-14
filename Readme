@@ -1,6 +1,6 @@
 Anyone can now run KataGo on OGS online-go.com  with Google Colab for Free. Please access below notebook file and SAVE AS YOUR OWN COPY. 
 
-https://colab.research.google.com/gist/JBX2010/93c99743efe0899751421bedcd342cea/katago_opencl_v1-0.ipynb
+https://colab.research.google.com/drive/1vw8mzMs9aVwT025AV95FnIb8TgC3IMyH?usp=sharing
 
 You may need to manually switch CUDA/OPENCL in below line of code depending on what GPU you get with colab. 
 
