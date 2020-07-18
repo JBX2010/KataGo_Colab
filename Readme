@@ -28,7 +28,7 @@ Supporting Google Colab by becoming a Colab Pro Member. With $10/month you get f
 
 现在，任何人都可以免费使用Google Colab在online-go.com （OGS）或者是奕客围棋上运行KataGo。请访问下面的笔记本文件并另存为自己的副本。
 
-https://colab.research.google.com/drive/1vw8mzMs9aVwT025AV95FnIb8TgC3IMyH?usp=sharing
+https://colab.research.google.com/drive/1QoOakkD-5dHzxqGxcOUB8VAgRJ3cRzi0?usp=sharing
 
 您可能需要在下面的代码行中手动切换CUDA / OPENCL，具体取决于您通过colab获得的GPU。
 
