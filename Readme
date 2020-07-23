@@ -4,9 +4,9 @@ Anyone can now run KataGo on OGS online-go.com  with Google Colab for Free. Plea
 
 https://colab.research.google.com/drive/1vw8mzMs9aVwT025AV95FnIb8TgC3IMyH?usp=sharing
 
-You may need to manually switch CUDA/OPENCL in below line of code depending on what GPU you get with colab. 
+You may need to manually switch the $KATAGO_BACKEND with CUDA or OPENCL depending on what GPU you get with colab. It's the first line of Step 2 and default with "OPENCL"
 
-!cd /content/KataGo/cpp/ && cmake . -DBUILD_MCTS=1 -DUSE_BACKEND=OPENCL && make 
+  KATAGO_BACKEND="OPENCL"
 
 For T4 recommend to use CUDA. For P100, P4 and K80 recommend to use OPENCL. First run !nvidia-smi see what GPU you get and then change CUDA/OPENCL accordingly.
 
@@ -36,7 +36,7 @@ https://colab.research.google.com/drive/1QoOakkD-5dHzxqGxcOUB8VAgRJ3cRzi0?usp=sh
 
 您可能需要在下面的代码行中手动切换CUDA / OPENCL，具体取决于您通过colab获得的GPU。
 
-！cd / content / KataGo / cpp / && cmake。 -DBUILD_MCTS = 1 -DUSE_BACKEND = OPENCL && make
+KATAGO_BACKEND="OPENCL"
 
 对于T4，建议使用CUDA。对于P100，P4和K80，建议使用OPENCL。首先运行！nvidia-smi，查看您所获得的GPU，然后相应地更改CUDA / OPENCL。
 
