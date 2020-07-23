@@ -57,9 +57,8 @@ https://home.yikeweiqi.com/
 通过成为Colab Pro会员来支持Google Colab。 每月10美元，您可以获得更快的GPU（T4和P100）和更长的运行时间。
 
 
-
-
 SSH版:
+
 (@bykinfkong网友帮忙做了一个SSH版本） 可以通过SSH连接到本地客户端如 Sabaki，Lizzie， Katrain等等 
 
 https://colab.research.google.com/drive/1S-N7mrqsQ9BL9MWs-BHozP1_lkVdDq4E?usp=sharing
