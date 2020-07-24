@@ -1,3 +1,9 @@
+Updates: July 24, 2020
+
+OGS KataGo bot made much easier to setup now. Only 2 clicks required and bot starts in 1 minute. Try it out.
+
+https://colab.research.google.com/drive/19SMIBuxTNoONn14yck5kSt06mdp3w4BA?usp=sharing
+
 English Version:
 
 Anyone can now run KataGo on OGS online-go.com  with Google Colab for Free. Please access below notebook file and SAVE AS YOUR OWN COPY. 
