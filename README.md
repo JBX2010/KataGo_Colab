@@ -1,4 +1,4 @@
-## Updates: July 24, 2020 (Simplified version, Quick Startup)
+## Updates: July 24, 2020 (Simplified version & Quick Startup)
 
 OGS KataGo bot made much easier to setup now. Only 2 clicks required and bot starts in 1 minute. Try it out.
 
