@@ -1,23 +1,29 @@
-# You can view the more formatted wiki here! https://github.com/JBX2010/KataGo_Colab/wiki/Getting-Started!
-Updates: July 24, 2020
+# Updates: July 24, 2020 (Simplified version, Quick Startup)
 
 OGS KataGo bot made much easier to setup now. Only 2 clicks required and bot starts in 1 minute. Try it out.
 
 https://colab.research.google.com/drive/19SMIBuxTNoONn14yck5kSt06mdp3w4BA?usp=sharing
 
-OGS中文版：
+# OGS KataBot 中文版：
 
 https://colab.research.google.com/drive/1v8VD2XVcMUWcvXh1ttJ6UwELEKfsvyNf?usp=sharing
 
-奕客中文版：
+# 奕客 KataBot 中文版：
 
 https://colab.research.google.com/drive/1UXnozWXqGT19P6Gtou_AT9o79qHmfBAG?usp=sharing
 
 
+# SSH版:
 
-Original Release: July 12, 2020
+(@kinfkong网友帮忙做了一个SSH版本） 可以通过SSH连接到本地客户端如 Sabaki，Lizzie， Katrain等等 
 
-English Version:
+ https://github.com/kinfkong/katago-colab/
+
+
+
+# Original Release: July 12, 2020 (If you need more control and want to learn how to build KataGo, please follow below instructions)
+
+# English Version:
 
 Anyone can now run KataGo on OGS online-go.com  with Google Colab for Free. Please access below notebook file and SAVE AS YOUR OWN COPY. 
 
@@ -47,7 +53,7 @@ Supporting Google Colab by becoming a Colab Pro Member. With $10/month you get f
 
 
 
-中文版：
+# 中文版：
 
 现在，任何人都可以免费使用Google Colab在online-go.com （OGS）或者是奕客围棋上运行KataGo。请访问下面的笔记本文件并另存为自己的副本。
 
@@ -76,20 +82,13 @@ https://home.yikeweiqi.com/
 通过成为Colab Pro会员来支持Google Colab。 每月10美元，您可以获得更快的GPU（T4和P100）和更长的运行时间。
 
 
-SSH版:
 
-(@bykinfkong网友帮忙做了一个SSH版本） 可以通过SSH连接到本地客户端如 Sabaki，Lizzie， Katrain等等 
-
- https://github.com/kinfkong/katago-colab/
-
-
-
-日本語版:
+# 日本語版:
 
 https://colab.research.google.com/drive/1yOsJCd2h5yNMORt2UtSj1cFtNyqpWmFe?usp=sharing
 
 
 
-한국어판: (Tranlated with Google translate. Please excuse me if any translation errors)
+# 한국어판: (Tranlated with Google translate. Please excuse me if any translation errors)
 
 https://colab.research.google.com/drive/14gWYc3D4FsUGf_euYBxpVOJ16mK5feEP?usp=sharing
