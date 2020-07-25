@@ -1,3 +1,4 @@
+# You can view the more formatted wiki here! https://github.com/JBX2010/KataGo_Colab/wiki/Getting-Started!
 Updates: July 24, 2020
 
 OGS KataGo bot made much easier to setup now. Only 2 clicks required and bot starts in 1 minute. Try it out.
