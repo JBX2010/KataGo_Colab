@@ -2,6 +2,8 @@
 
 OGS KataGo bot made much easier to setup now. Only 2 clicks required and bot starts in 1 minute. Try it out.
 
+## OGS KataBot English Version:
+
 https://colab.research.google.com/drive/19SMIBuxTNoONn14yck5kSt06mdp3w4BA?usp=sharing
 
 ## OGS KataBot 中文版：
