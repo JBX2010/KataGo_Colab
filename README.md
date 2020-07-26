@@ -18,6 +18,10 @@ https://colab.research.google.com/drive/1UXnozWXqGT19P6Gtou_AT9o79qHmfBAG?usp=sh
 
 https://colab.research.google.com/drive/1KLyTSP9NhWNyBlWSsMRqaBagxIWWzAnx?usp=sharing
 
+## OGS KataBot 한국어판: 
+
+https://colab.research.google.com/drive/1QcTfKOxsNUTL0A7RxDtBh3S3Uiud4ukH?usp=sharing
+
 
 ## SSH版:
 
