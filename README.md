@@ -6,11 +6,11 @@ OGS KataGo bot made much easier to setup now. Only 2 clicks required and bot sta
 
 https://colab.research.google.com/drive/19SMIBuxTNoONn14yck5kSt06mdp3w4BA?usp=sharing
 
-## OGS KataBot 中文版：
+## OGS KataBot 中文版（国内的朋友可能须要翻墙）:
 
 https://colab.research.google.com/drive/1v8VD2XVcMUWcvXh1ttJ6UwELEKfsvyNf?usp=sharing
 
-## 奕客 KataBot 中文版：
+## 奕客 KataBot 中文版（国内的朋友可能须要翻墙）:
 
 https://colab.research.google.com/drive/1UXnozWXqGT19P6Gtou_AT9o79qHmfBAG?usp=sharing
 
