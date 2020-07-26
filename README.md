@@ -14,6 +14,10 @@ https://colab.research.google.com/drive/1v8VD2XVcMUWcvXh1ttJ6UwELEKfsvyNf?usp=sh
 
 https://colab.research.google.com/drive/1UXnozWXqGT19P6Gtou_AT9o79qHmfBAG?usp=sharing
 
+## OGS KataBot 日本語版:
+
+https://colab.research.google.com/drive/1KLyTSP9NhWNyBlWSsMRqaBagxIWWzAnx?usp=sharing
+
 
 ## SSH版:
 
