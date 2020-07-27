@@ -1,18 +1,20 @@
 ## Updates: July 24, 2020 (Simplified version & Quick Startup)
 
-OGS KataGo bot made much easier to setup now. Only 2 clicks required and bot starts in 1 minute. Try it out.
+KataGo bot made much easier to setup now. Only 2 clicks required and bot starts in 1 minute. Try it out.
 
 ## OGS KataBot English Version:
 
 https://colab.research.google.com/drive/19SMIBuxTNoONn14yck5kSt06mdp3w4BA?usp=sharing
 
-## OGS KataBot 中文版（国内的朋友可能需要翻墙）:
+## KGS KataBot English Version:
 
-https://colab.research.google.com/drive/1v8VD2XVcMUWcvXh1ttJ6UwELEKfsvyNf?usp=sharing
+https://colab.research.google.com/drive/1mz1RE3ri0EZuVRd80aiNbJN_38wcRbI8?usp=sharing
 
-## 奕客 KataBot 中文版（国内的朋友可能需要翻墙）:
+## 奕客 KataBot 中文版:
 
 https://colab.research.google.com/drive/1UXnozWXqGT19P6Gtou_AT9o79qHmfBAG?usp=sharing
+
+国内的朋友可以使用“谷歌访问助手”或者其他办法连上Golab。
 
 ## OGS KataBot 日本語版:
 
