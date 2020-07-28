@@ -14,7 +14,7 @@ https://colab.research.google.com/drive/1mz1RE3ri0EZuVRd80aiNbJN_38wcRbI8?usp=sh
 
 https://colab.research.google.com/drive/1UXnozWXqGT19P6Gtou_AT9o79qHmfBAG?usp=sharing
 
-国内的朋友可以使用“谷歌访问助手”或者其他办法连上Golab。https://www.tianqiweiqi.com/google-helper.html
+国内的朋友可以使用“谷歌访问助手”或者其他办法连上Colab。 https://www.tianqiweiqi.com/google-helper.html
 
 ## OGS KataBot 日本語版:
 
