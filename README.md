@@ -1,3 +1,7 @@
+## Updates: Oct 26, 2020 (Run KataGo Distributed Training with Colab)
+
+https://colab.research.google.com/drive/1cxg1m2Dx-jReCGrMAAoE9mpCmlfBINTy?usp=sharing
+
 ## Updates: July 24, 2020 (Simplified version & Quick Startup)
 
 KataGo bot made much easier to setup now. Only 2 clicks required and bot starts in 1 minute. Try it out.
