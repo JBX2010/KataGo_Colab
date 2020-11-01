@@ -25,11 +25,15 @@ https://colab.research.google.com/drive/1KLyTSP9NhWNyBlWSsMRqaBagxIWWzAnx?usp=sh
 https://colab.research.google.com/drive/1QcTfKOxsNUTL0A7RxDtBh3S3Uiud4ukH?usp=sharing
 
 
-## SSH版:
+## SSH version iKataGo Client:
 
 (@kinfkong网友帮忙做了一个SSH版本） 可以通过SSH连接到本地客户端如 Sabaki，Lizzie， Katrain等等 
 
- https://github.com/kinfkong/katago-colab/
+https://colab.research.google.com/drive/1BT4GAlHC1p0gEtujp3EtAYgFSPIjLzxs?usp=sharing
+
+https://github.com/kinfkong/ikatago-client
+
+https://github.com/kinfkong/katago-colab/
 
 
 
