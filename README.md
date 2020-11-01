@@ -1,6 +1,6 @@
-# Want to run an AlphaGo strength Go bot by yourself? Believe me, it just that easy. In just 1 or 2 clicks and within a minute, you can have a Super Human level Go Bot running under your control. No need to spend thousand dollars for a fancy GPU. 
+## Want to run an AlphaGo strength Go bot by yourself? Believe me, it just that easy. In just 1 or 2 clicks and within a minute, you can have a Super Human level Go Bot running under your control. No need to spend thousand dollars for a fancy GPU. 
 
-# All thanks to Gian-Carlo Pascutto(GCP) and David Wu(Lightvector) who made this possible with their open source Go programs - Leela Zeor and KataGo and of cause Google Research Project Colab.
+## All thanks to Gian-Carlo Pascutto(GCP) and David Wu(Lightvector) who made this possible with their open source Go programs - Leela Zeor and KataGo and of cause Google Research Project Colab.
 
 ## OGS KataBot English Version:
 
