@@ -1,6 +1,6 @@
-## Want to run an AlphaGo strength Go bot by yourself? Believe me, it just that easy. In just 1 or 2 clicks and within a minute, you can have a Super Human level Go Bot running under your control. No need to spend thousand dollars for a fancy GPU. 
+Want to run an AlphaGo strength Go bot by yourself? Believe me, it just that easy. In just 1 or 2 clicks and within a minute, you can have a Super Human level Go Bot running under your control. You don't need to spend thousand dollars on fancy GPU. 
 
-## All thanks to Gian-Carlo Pascutto(GCP) and David Wu(Lightvector) who made this possible with their open source Go programs - Leela Zeor and KataGo and of cause Google Research Project Colab.
+All thanks to David Wu(Lightvector) who made this possible with his open source Go programs - KataGo and also Google Research Project Colab.
 
 ## OGS KataBot English Version:
 
@@ -104,3 +104,6 @@ https://colab.research.google.com/drive/1yOsJCd2h5yNMORt2UtSj1cFtNyqpWmFe?usp=sh
 ## 한국어판: (Tranlated with Google translate. Please excuse me if any translation errors)
 
 https://colab.research.google.com/drive/14gWYc3D4FsUGf_euYBxpVOJ16mK5feEP?usp=sharing
+
+
+Tag: Alpha Zero, Alpha Go, Muzero, Leela Zero, Fine Art, Golaxy, Crazy Stone, Zen, Handol, ELF
