@@ -1,4 +1,4 @@
-Want to run an AlphaGo strength Go bot by yourself? Believe me, it just that easy. In just 1 or 2 clicks and within a minute, you can have a Super Human level Go Bot running under your control. You don't need to spend thousand dollars on fancy GPU. 
+Want to run an AlphaGo strength Go bot by yourself? Believe me, it just that easy. With just 1 or 2 clicks and within a minute, you can have a Super Human level Go Bot running under your control. No need to spend thousand dollars on a fancy GPU. 
 
 All thanks to David Wu(Lightvector) who made this possible with his open source Go programs - KataGo and also Google Research Project Colab.
 
