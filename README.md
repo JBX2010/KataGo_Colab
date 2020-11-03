@@ -1,10 +1,6 @@
-## Updates: Oct 26, 2020 (Run KataGo Distributed Training with Colab)
+Want to run an AlphaGo strength Go bot by yourself? Believe me, it just that easy. In just 1 or 2 clicks and within a minute, you can have a Super Human level Go Bot running under your control. You don't need to spend thousand dollars on fancy GPU. 
 
-https://colab.research.google.com/drive/1cxg1m2Dx-jReCGrMAAoE9mpCmlfBINTy?usp=sharing
-
-## Updates: July 24, 2020 (Simplified version & Quick Startup)
-
-KataGo bot made much easier to setup now. Only 2 clicks required and bot starts in 1 minute. Try it out.
+All thanks to David Wu(Lightvector) who made this possible with his open source Go programs - KataGo and also Google Research Project Colab.
 
 ## OGS KataBot English Version:
 
@@ -29,11 +25,15 @@ https://colab.research.google.com/drive/1KLyTSP9NhWNyBlWSsMRqaBagxIWWzAnx?usp=sh
 https://colab.research.google.com/drive/1QcTfKOxsNUTL0A7RxDtBh3S3Uiud4ukH?usp=sharing
 
 
-## SSH版:
+## SSH version iKataGo Client:
 
 (@kinfkong网友帮忙做了一个SSH版本） 可以通过SSH连接到本地客户端如 Sabaki，Lizzie， Katrain等等 
 
- https://github.com/kinfkong/katago-colab/
+https://colab.research.google.com/drive/1BT4GAlHC1p0gEtujp3EtAYgFSPIjLzxs?usp=sharing
+
+https://github.com/kinfkong/ikatago-client
+
+https://github.com/kinfkong/katago-colab/
 
 
 
@@ -108,3 +108,6 @@ https://colab.research.google.com/drive/1yOsJCd2h5yNMORt2UtSj1cFtNyqpWmFe?usp=sh
 ## 한국어판: (Tranlated with Google translate. Please excuse me if any translation errors)
 
 https://colab.research.google.com/drive/14gWYc3D4FsUGf_euYBxpVOJ16mK5feEP?usp=sharing
+
+
+Tag: Alpha Zero, Alpha Go, Muzero, Leela Zero, Fine Art, Golaxy, Crazy Stone, Zen, Handol, ELF
