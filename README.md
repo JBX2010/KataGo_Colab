@@ -1,3 +1,8 @@
+# NOTE: 
+
+Colab has now restricted the GPU usage. New users could probably run 2 hours a day and old users may run 4 hours a day. Need to disconnect voluntarily otherwise may result account being blocked. 
+
+
 # README:
 
 Want to run an AlphaGo strength Go bot by yourself? Want to learn the Game of Go with the help of your own Bot? Or want to start learning the AI programs and build something interesting? Welcome to try out the opensource programs here. It helped me started a new journey in my life and hopefully it may help you as well. 
